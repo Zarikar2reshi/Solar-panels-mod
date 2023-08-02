@@ -1,0 +1,13 @@
+{
+	"name": "Silicon solar panel",
+	"type": "SolarGenerator",
+	"health": 200,
+	"size": 1,
+	"hasPower": true,
+	"powerProduction": 0.5,
+	"requirements": [
+		"silicon/10"
+	],
+	"category": "power",
+	"research": "graphitesp"
+}

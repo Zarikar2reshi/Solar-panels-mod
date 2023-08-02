@@ -1,0 +1,13 @@
+{
+	"name": "Lead solar panel",
+	"type": "SolarGenerator",
+	"health": 100,
+	"size": 1,
+	"hasPower": true,
+	"powerProduction": 0.2,
+	"requirements": [
+		"lead/10"
+	],
+	"category": "power",
+	"research": "coppersp"
+}

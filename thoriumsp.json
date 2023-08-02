@@ -1,0 +1,13 @@
+{
+	"name": "Thorium solar panel",
+	"type": "SolarGenerator",
+	"health": 90,
+	"size": 1,
+	"hasPower": true,
+	"powerProduction": 0.4,
+	"requirements": [
+		"thorium/10"
+	],
+	"category": "power",
+	"research": "titaniumsp"
+}
