@@ -1,0 +1,13 @@
+{
+	"name": "Coal solar panel",
+	"type": "SolarGenerator",
+	"health": 75,
+	"size": 1,
+	"hasPower": true,
+	"powerProduction": 0.16666667,
+	"requirements": [
+		"coal/10"
+	],
+	"category": "power",
+	"research": "coppersp"
+}

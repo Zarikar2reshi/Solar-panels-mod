@@ -1,0 +1,13 @@
+{
+	"name": "Phase fabric solar panel",
+	"type": "SolarGenerator",
+	"health": 150,
+	"size": 1,
+	"hasPower": true,
+	"powerProduction": 0.75,
+	"requirements": [
+		"phase-fabric/10"
+	],
+	"category": "power",
+	"research": "thoriumsp"
+}
