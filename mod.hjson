@@ -1,0 +1,16 @@
+name: z2r-sp
+description: '''
+A simple and easy to use mod that adds new solar panels.
+
+[accent[]]Contacts:[[]]
+E-mail: [blue[]]susb84261@gmail.com.[[]]
+Discord: [blue[]]Zarikar2Reshi#6207[[]]
+
+I hope you'll like my mod! If you like it, please leave it a star on GitHub!
+'''
+author: "[blue[]]Zarikar2Reshi"
+displayName: "Solar Panels"
+subtitle: "You'll never forget copper solar panels..."
+version: 1.0
+minGameVersion: "140.0"
+dependencies: []
